@@ -2,7 +2,7 @@
 
 LegalEase is a full-stack MERN web application that simplifies and analyzes multi-page legal documents (rental agreements, loan contracts, terms of service) for everyday citizens and small business owners.
 
-## 🎯 Problem & Objective
+##  Problem & Objective
 
 Legal contracts are long, filled with jargon, and boring to read. Most users skip them, which creates legal and financial risks.
 
@@ -12,7 +12,7 @@ Legal contracts are long, filled with jargon, and boring to read. Most users ski
 - Enable comparison, glossary, chatbot, history, and PDF download
 - Ensure security, privacy, login + logout flow
 
-## 🚀 Features
+##  Features
 
 - **Authentication**: User registration/login with MongoDB + JWT
 - **Document Upload & Processing**: Accept multi-page PDFs or scanned images with OCR
@@ -21,7 +21,7 @@ Legal contracts are long, filled with jargon, and boring to read. Most users ski
 - **Interactive Features**: Glossary, Q&A chatbot, history tracking
 - **Security**: AES-256 encryption for document storage
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React.js + Tailwind CSS
 - **Backend**: Node.js + Express.js
@@ -31,7 +31,7 @@ Legal contracts are long, filled with jargon, and boring to read. Most users ski
 - **OCR**: Tesseract.js + pdf-parse
 - **Security**: AES-256 encryption
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 LegalEase/
@@ -41,7 +41,7 @@ LegalEase/
 └── package.json      # Root package.json for scripts
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -67,11 +67,11 @@ LegalEase/
    npm run dev
    ```
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This is not legal advice, only a simplified explanation. Consult a lawyer for binding advice.
 
-## 📄 License
+##  License
 
 MIT License
 
